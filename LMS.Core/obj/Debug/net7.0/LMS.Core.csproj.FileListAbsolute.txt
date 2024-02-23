@@ -1,0 +1,12 @@
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\bin\Debug\net7.0\LMS.Core.deps.json
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\bin\Debug\net7.0\LMS.Core.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\bin\Debug\net7.0\LMS.Core.pdb
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.csproj.AssemblyReference.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.AssemblyInfoInputs.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.AssemblyInfo.cs
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\refint\LMS.Core.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\LMS.Core.pdb
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Core\obj\Debug\net7.0\ref\LMS.Core.dll

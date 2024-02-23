@@ -1,0 +1,17 @@
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Data.deps.json
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Data.runtimeconfig.json
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Data.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Data.pdb
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Core.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\bin\Debug\net7.0\LMS.Core.pdb
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.csproj.AssemblyReference.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.AssemblyInfoInputs.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.AssemblyInfo.cs
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.csproj.CopyComplete
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\refint\LMS.Data.dll
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.pdb
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\LMS.Data.genruntimeconfig.cache
+C:\Users\ashmi\Downloads\LibraryManagementSystem-main\LibraryManagementSystem-main\LMS.Data\obj\Debug\net7.0\ref\LMS.Data.dll
