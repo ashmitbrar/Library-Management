@@ -18,7 +18,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
 builder.Services.AddAutoMapper(typeof(Program));
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-
+  
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
