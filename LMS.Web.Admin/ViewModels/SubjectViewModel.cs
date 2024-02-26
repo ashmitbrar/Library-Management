@@ -12,5 +12,5 @@ namespace LMS.Web.Admin.ViewModels
         public string? Name { get; set; }
 
         public List<BookViewModel> Books { get; set; } = new();
-    }
+    }   
 }
